@@ -13,6 +13,5 @@ public class TaskE {
 
         System.out.println(position);
 
-        scanner.close();
     }
 }
