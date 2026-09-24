@@ -12,7 +12,6 @@ public class TaskE {
         int position = (distance % 109 + 109) % 109;
 
         System.out.println(position);
-
-        scanner.close();
+        
     }
 }
